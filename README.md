@@ -8,6 +8,7 @@ This project is a web application for predicting multiple diseases using machine
 ● Parkinson's Disease Prediction: Predicts if a person has Parkinson's disease based on vocal measurements.
 # Models 
 The application uses pre-trained machine learning models for predictions. These models are loaded using the pickle library.
+
 ● Diabetes Prediction Model
 
 ● Heart Disease Prediction Model
